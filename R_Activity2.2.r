@@ -1,6 +1,5 @@
 ###############################################
 #ACTIVITY 2.1-2.2 INTRODUCTION TO PERCEPTRON
-#SUPAKIT@IT.KMITL.AC.TH
 #NOTE: RANDOM GENERATE WEIGHT
 ###############################################
 ###############################################
